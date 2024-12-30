@@ -1,4 +1,4 @@
-# **Tuberculosis Detection Using Deep Learning**
+# **Tuberculosis Detection from Chest X-Rays Using Deep Learning (ResNet50)**
 
 This repository contains the implementation of a deep learning pipeline for detecting tuberculosis (TB) from chest X-ray images. It uses a pre-trained ResNet50 model fine-tuned for binary classification and includes various techniques for handling class imbalance and optimizing performance.
 
